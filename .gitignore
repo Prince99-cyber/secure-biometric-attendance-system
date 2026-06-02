@@ -1,0 +1,7 @@
+dataset/
+face_model.yml
+attendance.csv
+Logs.txt
+intruder.jpg
+__pycache__/
+*.pyc
